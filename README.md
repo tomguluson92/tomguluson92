@@ -2,9 +2,8 @@
 
 - Talking about Personal Stuffs:
 
-  - 🔭 I’m previously worked at Alibaba DAMO institution.
-  - 🌱 I’m currently doing something interesting.
-  - 👯 I’m looking to collaborate on the combination of AI and video games, visual effects and etc.
+  - 🔭 I’m previously worked at Alibaba DAMO institution and now a PHD at USTC.
+  - 👯 I’m looking to collaborate on AI Agent and AIGC, especially for usage and safety purpose.
   - 📫 How to reach me: samuel.gao023@gmail.com.
 
 
